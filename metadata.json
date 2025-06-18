@@ -1,0 +1,5 @@
+{
+  "name": "MediConnect HMS",
+  "description": "A frontend mock-up for a Hospital Management System. This application demonstrates role-based access for Patients, Doctors, and Admins, allowing them to manage appointments, records, and schedules. Backend operations are mocked for demonstration purposes.",
+  "requestFramePermissions": []
+}
